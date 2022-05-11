@@ -16,20 +16,7 @@
 			<version>4.0.1</version>
 			<scope>provided</scope>
 		</dependency>
-  <!-- https://mvnrepository.com/artifact/org.testcontainers/mysql -->
-<dependency>
-    <groupId>org.testcontainers</groupId>
-    <artifactId>mysql</artifactId>
-    <version>1.15.3</version>
-    <scope>test</scope>
-</dependency>
-<!-- https://mvnrepository.com/artifact/org.testcontainers/mysql -->
-<dependency>
-    <groupId>org.testcontainers</groupId>
-    <artifactId>mysql</artifactId>
-    <version>1.15.3</version>
-    <scope>test</scope>
-</dependency>
+
 
 		
 		<!-- https://mvnrepository.com/artifact/javax.servlet.jsp/javax.servlet.jsp-api -->
